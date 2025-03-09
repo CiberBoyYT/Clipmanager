@@ -4,6 +4,7 @@ Clipmanager is a simple Python script to save the contents of your clipboard to 
 It makes use of the pyperclip module and saves all the content to a txt file named clipboard_history.txt
 # Usage
 To run Clipmanager you'll need first to install pyperclip. To do it open CMD and type the following:
+
 `pip install pyperclip`
 
 Then, simply run the script, and all your clipboard will be logged until you exit the program.
